@@ -1,7 +1,6 @@
 <!--
   HOW TO EDIT THIS FILE
   - Text you can change sits between "EDIT" and "END EDIT" comments. Everything else is layout.
-  - The line starting with "TODO" is a placeholder. Replace it before you publish.
   - To change a picture, swap the file in assets/ and keep the same file name.
 -->
 
@@ -17,11 +16,13 @@
 <a id="about"></a>
 <img src="assets/01-about.svg" width="100%" alt="01 About">
 
-<!-- EDIT: About. Two or three sentences, first person. -->
+<!-- EDIT: About. -->
 
-I'm a cybersecurity analyst.
+I'm Cybersecurity Analyst with a passion for security architecture, AI tool development, and risk management. Currently researching on advanced applications of agentic AI in a responsible, safe and impactful manner within cybersecurity.
 
-TODO: one or two sentences on what you work on and what you are building or learning.
+- **Kitchen** · *Culinary hobbyist*: I enjoy cooking a wide range of cuisines, especially Italian, BBQ, and anything smoked.
+- **Cars &amp; pools** · *Handyman*: I detailed cars and cleaned pools throughout high school to help pay for part of college. The finesse, work ethic and attention to detail it taught me will stick forever.
+- **Astronomy** · *Head in the stars*: I was (and still am) infatuated with astronomy, especially the depth of it all. Neil deGrasse Tyson happens to be my favorite astrophysicist!
 
 <!-- END EDIT -->
 
@@ -80,7 +81,7 @@ TODO: one or two sentences on what you work on and what you are building or lear
 | Role | Organization | Years |
 | :-- | :-- | --: |
 | **Cybersecurity Analyst** | Northrop Grumman | 2025&#8209;present |
-| **CyberPatriot Instructor** | Air & Space Forces Association | 2025 |
+| **CyberPatriot 2025 Instructor** | Air & Space Forces Association | 2025 |
 | **Undergraduate Teaching Assistant, Cybersecurity** | Grand Canyon University | 2025 |
 | **Cybersecurity Intern** | GuidePoint Security | 2024 |
 | **Computer Systems Intern** | Northrop Grumman | 2024 |
@@ -96,7 +97,28 @@ Full history on [LinkedIn](https://www.linkedin.com/in/matthew-spina29/).
 
 <!-- EDIT: Contact. -->
 
-The best way to reach me is [LinkedIn](https://www.linkedin.com/in/matthew-spina29/). My certifications are on [Credly](https://www.credly.com/users/matthew-spina/badges/credly), and the portfolio is at [mspina.pages.dev](https://mspina.pages.dev/).
+<table>
+<tr>
+<td><b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/matthew-spina29/">linkedin.com/in/matthew-spina29</a></td>
+<td>The best way to reach me</td>
+</tr>
+<tr>
+<td><b>Credly</b></td>
+<td><a href="https://www.credly.com/users/matthew-spina/badges/credly">credly.com/users/matthew-spina</a></td>
+<td>Certifications</td>
+</tr>
+<tr>
+<td><b>Portfolio</b></td>
+<td><a href="https://mspina.pages.dev/">mspina.pages.dev</a></td>
+<td>The portfolio you walk through</td>
+</tr>
+<tr>
+<td><b>GitHub</b></td>
+<td><a href="https://github.com/matthew-spina29">github.com/matthew-spina29</a></td>
+<td>Code and repositories</td>
+</tr>
+</table>
 
 <!-- END EDIT -->
 
