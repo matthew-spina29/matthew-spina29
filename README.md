@@ -88,8 +88,6 @@ I'm Cybersecurity Analyst with a passion for security architecture, AI tool deve
 | **Generation Infrastructure Security & Compliance Intern** | Salt River Project | 2023&#8209;2024 |
 | **IT Helpdesk Technician** | Grand Canyon University | 2023&#8209;2024 |
 
-Full history on [LinkedIn](https://www.linkedin.com/in/matthew-spina29/).
-
 <!-- END EDIT -->
 
 <a id="contact"></a>
