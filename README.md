@@ -18,11 +18,20 @@
 
 <!-- EDIT: About. -->
 
-I'm Cybersecurity Analyst with a passion for security architecture, AI tool development, and risk management. Currently researching on advanced applications of agentic AI in a responsible, safe and impactful manner within cybersecurity.
+Hello!
 
-- **Kitchen** · *Culinary hobbyist*: I enjoy cooking a wide range of cuisines, especially Italian, BBQ, and anything smoked.
-- **Cars &amp; pools** · *Handyman*: I detailed cars and cleaned pools throughout high school to help pay for part of college. The finesse, work ethic and attention to detail it taught me will stick forever.
-- **Astronomy** · *Head in the stars*: I was (and still am) infatuated with astronomy, especially the depth of it all. Neil deGrasse Tyson happens to be my favorite astrophysicist!
+My name is Matthew, and I'm a Cybersecurity Analyst with a passion for security architecture, AI tool development, and risk management. I am currently researching on advanced applications of agentic AI in a responsible, safe and impactful manner within cybersecurity.
+
+Away from the screen, here's a little more about me:
+
+<h3><img src="assets/about-kitchen.svg" width="96" align="left" alt="">Culinary hobbyist</h3>
+<p>I enjoy cooking a wide range of cuisines, especially Italian, BBQ, and anything smoked.<br>&nbsp;</p>
+
+<h3><img src="assets/about-cars.svg" width="96" align="left" alt="">Handyman</h3>
+<p>I detailed cars and cleaned pools throughout high school to help pay for part of college. The finesse, work ethic and attention to detail it taught me will stick forever.</p>
+
+<h3><img src="assets/about-astro.svg" width="96" align="left" alt="">Head in the stars</h3>
+<p>I was (and still am) infatuated with astronomy, especially the depth of it all. Neil deGrasse Tyson happens to be my favorite astrophysicist!</p>
 
 <!-- END EDIT -->
 
