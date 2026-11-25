@@ -22,7 +22,7 @@ Hello!
 
 My name is Matthew, and I'm a Cybersecurity Analyst with a passion for security architecture, AI tool development, and risk management. I am currently researching on advanced applications of agentic AI in a responsible, safe and impactful manner within cybersecurity.
 
-Away from the screen, here's a little more about me:
+Away from the screen, here's a little more about me.
 
 <h3><img src="assets/about-kitchen.svg" width="96" align="left" alt="">Culinary hobbyist</h3>
 <p>I enjoy cooking a wide range of cuisines, especially Italian, BBQ, and anything smoked.<br>&nbsp;</p>
@@ -46,8 +46,8 @@ Away from the screen, here's a little more about me:
 <td width="50%"><b>The Mirelle Loop</b><br><sub>Planned · 2027</sub><br><br>A sandbox simulation where AI agents form their own societies, to observe how cooperation, conflict and governance emerge in a secured environment.</td>
 </tr>
 <tr>
-<td width="50%"><img src="assets/project-ai-red-teaming.svg" width="100%" alt="AI Red Teaming Sims: an AI agent runs a pentest, a malware analysis and a guardrail test inside an isolated lab"></td>
-<td width="50%"><b>AI Red Teaming Sims</b><br><sub>2026</sub><br><br>A self-contained home-lab project that uses AI to pentest, analyze malware and test its own guardrails, all inside an isolated lab.</td>
+<td width="50%"><img src="assets/project-ai-red-teaming.svg" width="100%" alt="AI Purple Teaming Sims: an AI agent pentests a target, analyzes malware and refuses prompt injections inside an isolated lab"></td>
+<td width="50%"><b>AI Purple Teaming Sims</b><br><sub>2026</sub><br><br>A self-contained home-lab project that uses AI to pentest, analyze malware and test its own guardrails, all inside an isolated lab.</td>
 </tr>
 <tr>
 <td width="50%"><img src="assets/project-home-lab.svg" width="100%" alt="Full Home Lab Standup: a rack with patch panel, router, switch, firewall, server, PDU and UPS, linked by a VPN tunnel to a tower server at a remote site"></td>
